@@ -12,7 +12,7 @@ with open('HISTORY.rst') as history_file:
 
 install_requires = [
     'click>=3.3,<7',
-    'keyring==8.7',
+    'keyring>=25',
     'parsedatetime>=1.4,<3',
     'python-dateutil>=2.4.1,<3',
     'requests>=2.4.3,<3.0',
